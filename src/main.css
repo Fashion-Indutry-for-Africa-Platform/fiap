@@ -36,6 +36,11 @@ header {
   padding: 20px;
 }
 
+iframe {
+  max-height: 100%;
+  max-width: 100%;
+}
+
 main {
   min-height: 85vh;
   width: 100%;
